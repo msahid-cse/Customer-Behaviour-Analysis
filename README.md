@@ -149,5 +149,5 @@ This project demonstrates an **end-to-end data analytics workflow**, integrating
 ## 📫 Connect / Contact
 - GitHub: [https://github.com/msahid-cse](https://github.com/msahid-cse)  
 - LinkedIn: [https://www.linkedin.com/in/msahid-cse/](https://www.linkedin.com/in/msahid-cse/)
-- Organization Website: [https://msahid-cse.github.io/portfolio/](https://msahid-cse.github.io/portfolio/)
+-  Website: [https://msahid-cse.github.io/portfolio/](https://msahid-cse.github.io/portfolio/)
 
